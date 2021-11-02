@@ -2,10 +2,6 @@ Hi there 👋
 
 # 🔭 I’m currently working on
 
-## LAST IMPERIAL VAGABOND (4th incarnation of Zilon, the Game of the Dream).
+## Upcoming Past - jRPG about warriors from ancient ages in sci-fi future.
 
-![Poster A3 horizontal](https://user-images.githubusercontent.com/2405499/58764985-41faf600-8598-11e9-9220-277923ca7f5b.png)
-
-https://github.com/kreghek/Zilon_Roguelike
-
-This is RPG/Roguelike game with globe living its own life.
+![Poster A3 horizontal](https://user-images.githubusercontent.com/2405499/139868447-25c976d6-2bda-49d9-a8ea-3fc0e5cff519.png)

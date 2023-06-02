@@ -4,11 +4,17 @@ Hi there 👋
 
 ## TESTAMENT is a RPG about heroes from ancient ages in a sci-fi future fighting monsters attacking from forgotten myths and scary tales.
 
-Add it to wishlist on [Steam Marketplace](https://store.steampowered.com/app/1910770/TESTAMENT)
+Add it to wishlist on [Steam](https://store.steampowered.com/app/1910770/TESTAMENT)
 
-![image](https://user-images.githubusercontent.com/2405499/234222304-f1b290e0-901f-40bd-a7bc-843897d4ed77.png)
+Join us on [Reddit](https://www.reddit.com/r/testament_rpg/)
 
+![image](https://github.com/kreghek/kreghek/assets/2405499/eb61d386-411e-4b6f-9c2d-34ad1fbf3913)
+
+Screenshots:
 ![image](https://user-images.githubusercontent.com/2405499/234222373-0f09d23e-ebd4-46c8-940e-07858494ae98.png)
+![image](https://github.com/kreghek/kreghek/assets/2405499/9f7e2790-42cc-42af-a9c6-3836a8897f7d)
+![image](https://github.com/kreghek/kreghek/assets/2405499/8c0aee57-088c-4835-a848-2c05e2e9bab6)
+
 
 ## Stats
 

@@ -2,6 +2,13 @@ Hi there 👋
 
 # 🔭 I’m currently working on
 
+## Galactic Showdown - jaw-grinding retro-arcade in the NES style.
+
+![promo_600x600](https://github.com/user-attachments/assets/46966589-8404-4f0e-9dee-1c1f40a179b9)
+
+itch.io https://combat-dices-team.itch.io/galactic-showdown
+
+
 ## TESTAMENT is a RPG about heroes from ancient ages in a sci-fi future fighting monsters attacking from forgotten myths and scary tales.
 
 Add it to wishlist on [Steam](https://store.steampowered.com/app/1910770/TESTAMENT)
